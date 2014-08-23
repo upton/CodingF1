@@ -1,4 +1,3 @@
 CodingF1
-========
-
-Code F1
+====
+Coding F1
